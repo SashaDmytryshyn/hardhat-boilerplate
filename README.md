@@ -4,6 +4,8 @@ This repository contains a sample project that you can use as the starting point
 for your Ethereum project. It's also a great fit for learning the basics of
 smart contract development.
 
+This is my fork!
+
 This project is intended to be used with the
 [Hardhat Beginners Tutorial](https://hardhat.org/tutorial), but you should be
 able to follow it by yourself by reading the README and exploring its
